@@ -29,12 +29,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '蚂蚁课堂',
-      url: 'http://www.mayikt.com/'
+      text: 'PY的主页',
+      url: 'https://pycharmikun1.github.io/ZY'
     },
     {
-      text: '路飞学城',
-      url: 'https://www.luffycity.com/'
+      text: 'PY的Github',
+      url: 'https://github.com/pycharmikun1'
     }
   ]
 };
